@@ -50,4 +50,4 @@ Thumbs.db
 *.log
 
 
-ec2-user@3.228.23.209
+/home/moaaz-kaff/terraform/project/ec2-user@3.228.23.209
